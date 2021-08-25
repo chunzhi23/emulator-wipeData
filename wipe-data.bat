@@ -3,6 +3,7 @@ title Emulator Wipe Data Processer
 setlocal enabledelayedexpansion
 
 :: Your full Sdk > emulator direction
+c:
 cd %AppData%
 cd ..\Local\Android\Sdk\emulator
 
