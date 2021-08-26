@@ -64,7 +64,7 @@ cd %AppData%
 cd ..\Local\Android\Sdk\emulator
 ```
 Direction error could occur on account of individual's sdk location.<br>
-So change this command into this may be fine.
+So change this command into this may be fine.<br>
 ```
 cd [Your direction]
 ```
